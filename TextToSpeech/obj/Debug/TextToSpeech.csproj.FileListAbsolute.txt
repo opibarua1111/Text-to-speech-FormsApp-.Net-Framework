@@ -1,0 +1,11 @@
+H:\ASP.Net\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+H:\ASP.Net\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe
+H:\ASP.Net\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.pdb
+H:\ASP.Net\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.AssemblyReference.cache
+H:\ASP.Net\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.SuggestedBindingRedirects.cache
+H:\ASP.Net\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.Form1.resources
+H:\ASP.Net\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+H:\ASP.Net\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.cache
+H:\ASP.Net\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.CoreCompileInputs.cache
+H:\ASP.Net\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.exe
+H:\ASP.Net\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.pdb
